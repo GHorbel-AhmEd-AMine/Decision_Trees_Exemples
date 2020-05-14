@@ -1,0 +1,36 @@
+[33mcommit 25f725822b348435b8861360ea0576161b429347[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1ea3253 a37555b
+Author: Ahmed_Amine_Ghorbel <39995021+GHorbel-AhmEd-AMine@users.noreply.github.com>
+Date:   Thu May 14 00:05:44 2020 +0200
+
+    Merge branch 'master' of https://github.com/GHorbel-AhmEd-AMine/Decision_Trees_Exemples
+
+[33mcommit 1ea32535ede1e3c16b0fe57d8e2f0947b663e20f[m
+Author: Ahmed_Amine_Ghorbel <39995021+GHorbel-AhmEd-AMine@users.noreply.github.com>
+Date:   Wed May 13 23:54:50 2020 +0200
+
+    2 jupyter files are modified
+
+[33mcommit a37555beb5a204408d87f91174aa993f76f0da38[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ahmed_Amine_Ghorbel <39995021+GHorbel-AhmEd-AMine@users.noreply.github.com>
+Date:   Wed May 13 19:53:41 2020 +0200
+
+    Update README.md
+
+[33mcommit 3c7ab74efeb54dea2af3f8d796e540a7b9b75f00[m
+Author: Ahmed_Amine_Ghorbel <39995021+GHorbel-AhmEd-AMine@users.noreply.github.com>
+Date:   Wed May 13 19:44:26 2020 +0200
+
+    Adding multiple files
+
+[33mcommit 89f190e7c5a21d9e62a83061a4d446519b1de2da[m
+Author: Ahmed_Amine_Ghorbel <39995021+GHorbel-AhmEd-AMine@users.noreply.github.com>
+Date:   Wed May 13 19:39:53 2020 +0200
+
+    Update README.md
+
+[33mcommit ae8cee206226e74fa9a49753a40a0e51a1268ba7[m
+Author: Ahmed_Amine_Ghorbel <39995021+GHorbel-AhmEd-AMine@users.noreply.github.com>
+Date:   Wed May 13 17:33:39 2020 +0200
+
+    Initial commit
